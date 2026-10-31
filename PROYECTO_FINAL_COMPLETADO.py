@@ -9,12 +9,12 @@ Interfaz: tkinter/ttk (Linux Ubuntu/Debian: sudo apt install python3-tk).
 Opciones: --cli, --diagnostico, --check, --backup, --csv, --pruebas.
 Registros: carpeta datos/ junto al archivo. Para trasladarlos, envía también esa carpeta.
 
-Los comentarios siguen el ejemplo del video: función, validaciones y resultado.
+La función, validaciones y resultado. 
 Responsables: Kiomy (libros/autores), Carlos (usuarios), Anderson (préstamos),
 Jeremy (devoluciones/multas) y Dany (interfaz, menú e integración).
 """
 
-# =================================================================
+# Integrantes: Jeremy Barrios, Kiomy Orozco, Anderson y Dany Lucas
 # modelos.py | Parte integrada (Python)
 # =================================================================
 # CLASES: representan los registros que comparten las cinco partes del sistema.
